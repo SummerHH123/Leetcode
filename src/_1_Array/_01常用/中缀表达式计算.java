@@ -41,7 +41,7 @@ public class 中缀表达式计算 {
     /**
      * from infix to postfix
      * @param s - String in the form of infix
-     * @return String in the form of postfix
+     * @return String in the form of postfix 将优先级高的弹出来
      */
     public static String getrp(String s){
         char[] arr = s.toCharArray();
