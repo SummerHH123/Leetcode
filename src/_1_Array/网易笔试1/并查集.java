@@ -8,7 +8,7 @@ public class 并查集 {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int m=sc.nextInt();
-        int id=sc.nextInt();
+
 
         int k;
         for (int i=0;i<=n;i++){
@@ -28,7 +28,7 @@ public class 并查集 {
         }
         int ans=0;
         for (int i=0;i<n;i++){
-            if (find(i)==find(id)){
+            if (find(i)==find(0)){
                 ans++;
             }
         }

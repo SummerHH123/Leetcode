@@ -1,30 +1,35 @@
-package _1_Array._01常用.算法;
+package _1_Array._2021腾讯;
 
 import java.util.Scanner;
 
-public class 并查集 {
+/**
+ * @author Summer
+ * @version 1.0
+ * @date 2020-09-06 20:18
+ */
+public class Main2 {
 
     static class unionFind {
         private int[] parent;
-        private int[] rank;// rank[i]表示以i为根节点的树的高度
+        private int[] rank;
 
         public unionFind(int size) {
             this.parent = new int[size];
             this.rank = new int[size];
             for (int i = 0; i < size; i++) {
-                parent[i] = i; //  初始的时候每个元素都指向自己  可以用-1来表示一个集合
+                parent[i] = i;
                 rank[i] = 1;
             }
         }
 
-        // 查询根节点
+
         public int find(int p) {
             int curP = p;
-            while (parent[curP] != curP){ // 说明还没到达根节点
+            while (parent[curP] != curP){
                 curP = parent[curP];
             }
 
-            parent[p] = curP; // 直接将查找的p节点的父节点更新为根节点
+            parent[p] = curP;
             return curP;
 
         }
@@ -34,15 +39,11 @@ public class 并查集 {
         }
 
         public void union(int p, int q) {
-            //pq在一个根上
+
             int pRoot = find(p);
             int qRoot = find(q);
             if (pRoot == qRoot) return;
-            ///////
-            //pq在不在同一个节点上
 
-
-            // 这里合并的时候判断树的高度，将其高度低的节点指向高度高的根节点
             if (rank[pRoot] > rank[qRoot]) {
                 parent[qRoot] = pRoot;
             } else if (rank[pRoot] < rank[qRoot]) {
@@ -54,31 +55,7 @@ public class 并查集 {
         }
     }
 
-//    static int[] a=new int[10005];
-    // 方式三：并查集
-//    public int findCircleNum(int[][] M) {
-//        int peopleCount = M.length;
-//
-//        unionFind unionFind = new unionFind(peopleCount);
-//        for (int i = 0; i < peopleCount; i++){
-//            for (int j = 0; j <= i; j++){
-//                if (i == j) continue;
-//                if (M[i][j] == 1) unionFind.union(i, j);
-//            }
-//        }
-//
-//        int[] arr = unionFind.parent;
-//        int count = 0;
-//        for (int i = 0; i < peopleCount; i++){
-//            if (arr[i] == -1){
-//                count++;
-//            }
-//        }
-//
-//        return count;
-
-
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
@@ -92,9 +69,16 @@ public class 并查集 {
             int q = sc.nextInt();
 
 
+
             int a = sc.nextInt();
+            if (a>=n){
+                throw  new Exception("数组越界");
+            }
             for (int i = 0; i < q - 1; i++) {
-                int b = sc.nextInt();//b[i]
+                int b = sc.nextInt();
+                if (b>=n){
+                    throw  new Exception("数组越界");
+                }
                 uf.union(a, b);
                 a = b;
             }
@@ -108,14 +92,5 @@ public class 并查集 {
             }
         }
         System.out.println(count);
-
-//        int[] a=uf.parent;
-//        System.out.println(count);
-//        for (int tmp:a){
-//            System.out.printf("%d ",tmp);
-//        }
-
-
     }
-
 }
