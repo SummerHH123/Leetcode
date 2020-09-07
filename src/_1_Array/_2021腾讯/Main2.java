@@ -60,7 +60,7 @@ public class Main2 {
 
         int n = sc.nextInt();
 
-        unionFind uf = new unionFind(n);
+        unionFind uf = new unionFind(n+1);
         int m = sc.nextInt();
 
 
