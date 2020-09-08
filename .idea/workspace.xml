@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4795e8b-3e3b-4b60-86d0-b39f17151946" name="Default Changelist" comment="leetcode刷题array6">
-      <change afterPath="$PROJECT_DIR$/src/_1_Array/_2021小米/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1_Array/_2021小米/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_Array/_01常用/正则.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021贝壳/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021贝壳/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021贝壳/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021贝壳/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1_Array/_2021贝壳/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Array/_2021贝壳/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021小米/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/_1_Array/_2021小米/Main2.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,19 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021腾讯/Main2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-              <folding>
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021贝壳/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,17 +82,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小米/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="32" column="34" selection-end-line="50" />
+            <state relative-caret-position="100">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小米/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小米/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/_1_Array/_01常用/正则.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+            <state relative-caret-position="322">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -170,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_1_Array/_2021_3602/Main1.java" />
-        <option value="$PROJECT_DIR$/src/_1_Array/_2021_3602/Main2.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021阿里巴巴.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021阿里巴巴/Main1.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021阿里巴巴/Main2.java" />
@@ -219,8 +210,10 @@
         <option value="$PROJECT_DIR$/src/_1_Array/_2021贝壳/Main2.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021贝壳/Test1.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021贝壳/Main4.java" />
-        <option value="$PROJECT_DIR$/src/_1_Array/_2021小米/Main1.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021小米/Main2.java" />
+        <option value="$PROJECT_DIR$/src/_1_Array/_2021小米/Main1.java" />
+        <option value="$PROJECT_DIR$/src/_1_Array/_2021小米/test11.java" />
+        <option value="$PROJECT_DIR$/src/_1_Array/_01常用/正则.java" />
       </list>
     </option>
   </component>
@@ -279,6 +272,13 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_1_Array" type="462c0819:PsiDirectoryNode" />
+              <item name="_01常用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_1_Array" type="462c0819:PsiDirectoryNode" />
               <item name="_2021小米" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -291,7 +291,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599565972340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599574269092" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -323,13 +323,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.test11">
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_Array._2021小米.Main1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1_Array._2021小米.*" />
+          <option name="PATTERN" value="_1_Array._01常用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,7 +355,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1_Array._2021小米.*" />
+          <option name="PATTERN" value="_1_Array._01常用.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,19 +389,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1_Array._2021贝壳.Test1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_1_Array._2021贝壳.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_3打印链表" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_Array.剑指offer._3打印链表" />
       <module name="leetcode" />
@@ -415,13 +402,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_Array._2021小米.test11" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_Array._01常用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.test11" />
         <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +457,7 @@
       <workItem from="1593703512882" duration="4528000" />
       <workItem from="1595387729275" duration="94882000" />
       <workItem from="1597671107414" duration="88882000" />
-      <workItem from="1599228161351" duration="43092000" />
+      <workItem from="1599228161351" duration="44368000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题array1">
       <created>1575009162893</created>
@@ -477,7 +477,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="565281000" />
+    <option name="totallyTimeSpent" value="566557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,7 +492,7 @@
     <frame x="171" y="23" width="1680" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.22954823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.22954823" />
       <window_info id="Structure" order="1" sideWeight="0.501845" side_tool="true" weight="0.20476772" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -501,7 +501,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.501845" side_tool="true" weight="0.20476772" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26666668" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3954023" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,13 +533,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode刷题array6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_1_Array/bilbili2021/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_Array/bilbili2021/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -921,15 +914,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小米/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="32" column="34" selection-end-line="50" />
+        <state relative-caret-position="100">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小米/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="464">
           <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_Array/_01常用/正则.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
