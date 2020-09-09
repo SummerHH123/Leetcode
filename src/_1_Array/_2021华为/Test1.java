@@ -43,6 +43,11 @@ public class Test1 {
 
         System.out.println((char)('a'-32));
 
+        System.out.println(Integer.parseInt("10111", 2));
+        Integer.toBinaryString(16);
+        Integer.toOctalString(8);
+        Integer.toHexString(7);
+
 
     }
 }

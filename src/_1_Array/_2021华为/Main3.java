@@ -21,24 +21,29 @@ public class Main3 {
         }
         for (int i=0;i<m;i++)
             for (int j=0;j<b[i];j++)
-                map_c[x+i][ma-j-1]=1;
+                map_c[x+i][ma-j-1]=1;  //将方块 统计放进去  map的样子，将方块和原始的一起置为1
         int ans=0;
         for (int j=0;j<19;j++){
-            int k=0;
+            int k=0;//统计每一行有多少个方块   大于0小于n才消不掉
             for (int i=0;i<n;i++)
                 if (map_c[i][j]==1) k++;
             if (k>0 && k<n) ans++;
+            System.out.println("k:"+k);
         }
-        return ans;
+        System.out.println("ans:"+ans);
+        System.out.println("--------");
 
+        return ans;
     }
 
+//    计算高度
     public static void calc_h(String s,int[] h){
         int n=s.length();
         for (int i=0;i<n;i++){
             h[i]=s.charAt(i)-'0';
         }
     }
+//
     public static void change(String s,int[] h){
         int n=s.length();
         for (int i=0;i<n;i++){
