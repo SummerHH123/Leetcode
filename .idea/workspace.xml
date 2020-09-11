@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4795e8b-3e3b-4b60-86d0-b39f17151946" name="Default Changelist" comment="leetcode刷题array6">
-      <change afterPath="$PROJECT_DIR$/src/_1_Array/_2021小红书/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_Array/_2021有赞/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_Array/_2021有赞/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,16 +40,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="17">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021有赞/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-67">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021有赞/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
+            <state relative-caret-position="1375">
               <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
             </state>
           </provider>
@@ -111,15 +133,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -150,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_1_Array/_2021广联达/Main2.java" />
-        <option value="$PROJECT_DIR$/src/_1_Array/_2021广联达/Main5.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021京东/Main2.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021京东/Main1.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021顺丰/Main2.java" />
@@ -201,6 +212,8 @@
         <option value="$PROJECT_DIR$/src/_1_Array/_2021_中国电信/Main3.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021_中国电信/Main2.java" />
         <option value="$PROJECT_DIR$/src/_1_Array/_2021小红书/Test1.java" />
+        <option value="$PROJECT_DIR$/src/_1_Array/_2021有赞/Main2.java" />
+        <option value="$PROJECT_DIR$/src/_1_Array/_2021有赞/Main1.java" />
       </list>
     </option>
   </component>
@@ -224,7 +237,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="199" />
+    <option name="x" value="137" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="960" />
@@ -258,22 +271,7 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_1_Array" type="462c0819:PsiDirectoryNode" />
-              <item name="_01常用" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_1_Array" type="462c0819:PsiDirectoryNode" />
-              <item name="_01常用" type="462c0819:PsiDirectoryNode" />
-              <item name="算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="_1_Array" type="462c0819:PsiDirectoryNode" />
-              <item name="_2021小红书" type="462c0819:PsiDirectoryNode" />
+              <item name="_2021有赞" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599791428664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599812321584" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,13 +316,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main4">
-    <configuration name="爬楼梯1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1_Array._2021华为.爬楼梯1" />
+  <component name="RunManager" selected="Application.Main1 (1)">
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_Array._2021有赞.Main1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1_Array._2021华为.*" />
+          <option name="PATTERN" value="_1_Array._2021有赞.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,11 +397,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Main4" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.爬楼梯1" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +438,7 @@
       <workItem from="1595387729275" duration="94882000" />
       <workItem from="1597671107414" duration="88882000" />
       <workItem from="1599228161351" duration="59266000" />
-      <workItem from="1599639437777" duration="9760000" />
+      <workItem from="1599639437777" duration="12928000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题array1">
       <created>1575009162893</created>
@@ -460,7 +458,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="591215000" />
+    <option name="totallyTimeSpent" value="594383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,9 +470,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="199" y="23" width="1680" height="960" extended-state="0" />
+    <frame x="137" y="23" width="1680" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.23443224" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.23443224" />
       <window_info id="Structure" order="1" sideWeight="0.501845" side_tool="true" weight="0.20476772" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,7 +482,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.501845" side_tool="true" weight="0.20476772" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48271888" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30645162" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.445977" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,20 +517,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode刷题array6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_1_Array/_01常用/算法/排序/快排.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_Array/_01常用/算法/排序/归并_非递归.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021_58/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -825,24 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -895,6 +866,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021小红书/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021有赞/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_1_Array/_2021有赞/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
