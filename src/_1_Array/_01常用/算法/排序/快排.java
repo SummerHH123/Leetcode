@@ -28,15 +28,6 @@ public class 快排 {
 
         nums[start]=nums[left];
         nums[left]=temp;
-//
-//        System.out.println(left);
-
-//        System.out.println(right);
-//        for (int i=0;i<nums.length;i++){
-//            System.out.printf("%d ",nums[i]);
-//        }
-//        System.out.println();
-//
         quickSorted(nums,start,left-1);
         quickSorted(nums,left+1,end);
     }
